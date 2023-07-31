@@ -37,7 +37,6 @@
 ![Typescript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 
-### Visitor
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <a href="https://discord.com/users/738748102311280681"><img align="center" width=400 src="https://moe-counter.glitch.me/get/@1Hate?theme=rule34"></a	
